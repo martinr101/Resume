@@ -1,0 +1,30 @@
+* {
+  margin: 8px;   
+  padding: 10px;
+}
+
+
+html {
+  color: rgb(4, 4, 4)
+}
+
+h1 {font-size: 30px}
+
+h2 {font-size: 20px;
+text-transform: uppercase;}
+
+
+.nav-bar {
+display: flex;
+height: 80px;
+}
+
+.nav-list {
+  display: flex;
+  margin-left: 346px;
+  }
+
+  .my-picture {
+    width: 300px;
+    height: 300px;
+  }
